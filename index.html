@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="no">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Presbyterologia</title>
+    <link rel="icon" type="image/svg+xml" href="./assets/nb-emblem.svg" />
+    <link rel="stylesheet" href="./src/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a
+        class="nb-lockup"
+        href="https://nb.no"
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="Gå til nb.no"
+      >
+        <img src="./assets/NB-Logo-Aubergine.svg" alt="Nasjonalbiblioteket" />
+      </a>
+      <div class="title-block">
+        <h1>Presbyterologia Norwegico Wos-Hardangriana</h1>
+        <p>Gert Henrikssøn Miltzow · 1679 · Oversettelse: Simen Johansen</p>
+        <button id="about-open" class="about-open" type="button">Om utgaven</button>
+      </div>
+    </header>
+
+    <main>
+      <section class="panel text-panel" aria-label="Tekstvisning">
+        <div class="reading-layout">
+          <aside class="toc-panel" aria-labelledby="toc-title">
+            <h2 id="toc-title">Innhold</h2>
+            <nav id="toc-list" class="toc-list" aria-label="Innholdsoversikt">
+              <p class="muted">Laster oversikt…</p>
+            </nav>
+          </aside>
+
+          <div class="text-column">
+            <div id="source-controls" class="source-controls" hidden>
+              <button id="pick-tei" type="button">Velg TEI-fil</button>
+              <input id="tei-file" type="file" accept=".xml,.tei,application/xml,text/xml" />
+              <span id="source-status" class="muted">Prøver å laste lokal TEI…</span>
+            </div>
+            <div id="text-grid" class="text-grid">
+              <p class="muted">Laster TEI…</p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>Statisk TEI-visning.</p>
+    </footer>
+
+    <div id="about-modal" class="about-modal" hidden>
+      <div class="about-dialog" role="dialog" aria-modal="true" aria-labelledby="about-title">
+        <button id="about-close" class="about-close" type="button" aria-label="Lukk">×</button>
+        <h2 id="about-title">Om Presbyterologia Norwegico Wos-Hardangriana</h2>
+        <p>
+          Presbyterologia Norwegico Wos-Hardangriana er en prestekrønike over Voss og Hardanger
+          skrevet av Gertz Henrikssøn Miltzow i 1679.
+        </p>
+        <p>
+          I denne digitale utgaven er teksten oversatt og tilrettelagt for visning av Simen Johansen
+          i 2026.
+        </p>
+        <h3 class="about-subtitle">Ressurser</h3>
+        <ul>
+          <li><a href="https://www.nb.no/items/URN:NBN:no-nb_digibok_2015121628005" target="_blank" rel="noopener noreferrer">Åpne i Nettbiblioteket</a></li>
+          <li><a href="./exports/presbyterologia.html" download>Last ned HTML-eksport</a></li>
+          <li><a href="#" aria-disabled="true">GitHub-repositorium (kommer)</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <script src="./src/app.js"></script>
+  </body>
+</html>
