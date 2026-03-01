@@ -2,6 +2,11 @@
 
 Statisk TEI-visning med parallell latin/norsk tekst, marginalia og lenker til faksimiler.
 
+## Lenker
+
+- Visning: https://yngvil.github.io/dhlab-presbyterologia-viewer/
+- Kilde i Nettbiblioteket: https://www.nb.no/items/URN:NBN:no-nb_digibok_2015121628005
+
 ## Struktur
 
 - `index.html` – inngangsside (kreves for GitHub Pages)
