@@ -482,11 +482,6 @@ main {
   background: #fff;
 }
 
-.about-dialog a[aria-disabled="true"] {
-  opacity: 0.55;
-  pointer-events: none;
-}
-
 .about-close {
   position: absolute;
   top: 1rem;
