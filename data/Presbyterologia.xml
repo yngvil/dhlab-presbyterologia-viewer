@@ -379,7 +379,7 @@ fuit, juxta inclyti Regis MAGNI HAQVIN&#xC6;I (qvod idem ejus Dominus Pater R. H
 			<p>
 <seg xml:lang="la" xml:id="la-0080">Significavit mihi per literas qvidam Sunhordiam nuper ingressus, se pervenisse ad C&#x153;nobium Halsen&#xF6;ense, ibique ad rudera grandiusculi illius loci templi, lapidem oculis percepisse, cui hi erant incisi characteres.</seg>
 <seg xml:lang="no" corresp="#la-0080">En mann som nylig bes&#xF8;kte Sunnhordaland har fortalt meg i et brev at han ved ruinene av Halsen&#xF8;y klosters store kirke s&#xE5; en sten, hvor disse bokstavene var innrisset.</seg>
-Her er Vossa Bolken 
+<seg xml:lang="la" xml:id="la-0080_a">&#x16BC;&#x16BD;&#x16B1; &#x16BD;&#x16B1; &#x16A2;&#x16AE;&#x16CC;&#x16CC;&#x16C6;&#x16D2;&#x16AE;&#x16DA;&#x16B4;&#x16BD;&#x16B3;</seg>
 <seg xml:lang="la" xml:id="la-0081">HIC EST WOSSORUM CLASSIS.</seg>
 <seg xml:lang="no" corresp="#la-0081">Her er Vossa bolken.</seg>	
 <seg xml:lang="la" xml:id="la-0082">H&#xE6;c si rit&#xE8; se habent, utiqve satis evidenter arguunt nostratium pro more illius seculi superstitiosam devotionem, vel singularem in illud monasterium munificentiam, vel utrumque.</seg>
@@ -728,7 +728,7 @@ qvodam tempore Annex&#xE6; Ecclesi&#xE6; &#xC6;wangriensi (ubi DN. ERLINGERUS <h
 			<seg xml:lang="no" corresp="#la-0184">Det samme ondet har den mildeste kongelige Majestet Kristian 4. av &#xE6;rerikt minne allerede sett og med alvor forbudt.</seg>			<seg xml:lang="la" xml:id="la-0185">DN. ARNERUS ASCHILLUS (Sira Arne Askelzson) Floruit An: Dni MCCCLXXIX. &amp; Regiminis Olai Norvegi&#xE6; &amp; Dani&#xE6; Regis, anno tertio, qvi est Christi I382.</seg>
 <seg xml:lang="no" corresp="#la-0185">Sira Arne Askjellsson var prest i 1379 og i det tredje &#xE5;ret av kong Olav av Norge og Danmarks regjering, 1382.</seg>
 <seg xml:lang="la" xml:id="la-0186">Pastorum hujus loci primariorum hicce primus est, qvi un&#xE0; pr&#xE6;positum egisse legitur, licet ejus districtus non exprimatur.</seg><seg xml:lang="no" corresp="#la-0186">Han sies &#xE5; ha v&#xE6;rt den f&#xF8;rste sognepresten som ogs&#xE5; ble prost, men hans embetsdistrikt nevnes ikke.</seg> 
-			<seg xml:lang="la" xml:id="la-0187">Qvod &amp; Dn. Vinalderus Henrici, ipsemet eodem tempore Pr&#xE6;positus, sed templi Apostolorum Bergensis, (&amp; hoc majoris momenti munus fuit, de qvo alibi) postea etiam pr&#xE6;dicto Regi &#xE0; consiliis in Epistola sua, ad Episcopum Bergensem, cujus vice Wosseam ascenderat, missa, pal&#xE0;m facit, inter alia sic scribens: <hi rend="bold">Wyrdheleghom sinom Herra oc Andelegom F&#xE6;dher Herra Jacopa med Gudhes Naadh Biscope i Berghvin, helsar ek Winalder <pb n="23" facs="no-nb_digibok_2015121628005_0029.jpg"/>Henrikzson Profast at Apostola Kirkin' i sama Stadh med Gudhes kv&#xE6;dhin a mine skyldughie Tenaste. Kunnight gerand ydhrom Herradom at ek vara Wangenno i Pr&#xE6;st Stofvon a Wos a Ty&#xDF;daghen nesta fur i gans Fasto Synnodagh, Anno Do. M. CCCLXXIX. - i fullo oc logblegho umbodhe Sira Arna Profasta yd'rs m&#xF8;dhan han var i adhrum Kirkunnar &#xE6;rendom, etc.</hi> </seg>
+			<seg xml:lang="la" xml:id="la-0187">Qvod &amp; Dn. Vinalderus Henrici, ipsemet eodem tempore Pr&#xE6;positus, sed templi Apostolorum Bergensis, (&amp; hoc majoris momenti munus fuit, de qvo alibi) postea etiam pr&#xE6;dicto Regi &#xE0; consiliis in Epistola sua, ad Episcopum Bergensem, cujus vice Wosseam ascenderat, missa, pal&#xE0;m facit, inter alia sic scribens:<lb/><hi rend="bold">Wyrdheleghom sinom Herra oc Andelegom F&#xE6;dher Herra Jacopa med Gudhes Naadh Biscope i Berghvin, helsar ek Winalder <pb n="23" facs="no-nb_digibok_2015121628005_0029.jpg"/>Henrikzson Profast at Apostola Kirkin' i sama Stadh med Gudhes kv&#xE6;dhin a mine skyldughie Tenaste. Kunnight gerand ydhrom Herradom at ek vara Wangenno i Pr&#xE6;st Stofvon a Wos a Ty&#xDF;daghen nesta fur i gans Fasto Synnodagh, Anno Do. M. CCCLXXIX. - i fullo oc logblegho umbodhe Sira Arna Profasta yd'rs m&#xF8;dhan han var i adhrum Kirkunnar &#xE6;rendom, etc.</hi> </seg>
 <seg xml:lang="no" corresp="#la-0187">Dette gj&#xF8;r ogs&#xE5; Sira Vinaldr Henrikson, den tids prost ved Apostelkirken i Bergen (et viktig embete, om hvilket annetsteds) og senere kongens kansler, klart i et brev som han sendte fra Voss til biskopen i Bergen etter &#xE5; ha reist dit i biskopens sted.</seg>
 <seg xml:lang="no" corresp="#la-0187">Han skriver blant annet:</seg>
 		</p>
@@ -1575,8 +1575,8 @@ qvodam tempore Annex&#xE6; Ecclesi&#xE6; &#xC6;wangriensi (ubi DN. ERLINGERUS <h
 <seg xml:lang="no" corresp="#la-0429">Jeg har blitt fortalt at det for ikke lenge siden p&#xE5; denne kirkeg&#xE5;rden var en gravsten som var flat i formen, hvilken jeg med iherdige fors&#xF8;k og unders&#xF8;kelser ikke har klart &#xE5; finne.</seg>
 <seg xml:lang="no" corresp="#la-0429">Grunnen er at den har blitt fraktet annetsteds, er &#xF8;delagt, knust eller av en annen grunn ikke lar seg finne.</seg>
 <seg xml:lang="la" xml:id="la-0430">Ver&#xF9;m superi&#xF9;s pr&#xE6;nominat&#xE6; stel&#xE6; sepulcralis&#xA0;&#x388;&#x3C0;&#x3B9;&#x3B3;&#x3F1;&#x3B1;&#x3C6;&#x3AE;, qu&#xE6; exarata genuinis exstat literis runicis, hoc modo se habet:</seg>
-<seg xml:lang="no" corresp="#la-0430">Den ovenfor nevnte gravstenen har f&#xF8;lgende innskrift som er skrevet med runer:</seg>(utelatt)
- 
+<seg xml:lang="no" corresp="#la-0430">Den ovenfor nevnte gravstenen har f&#xF8;lgende innskrift som er skrevet med runer:</seg>
+<seg  xml:lang="la" xml:id="la-0430_a">† &#x16D0;&#x16B3; &#x16C6;&#x16B1;&#x16D0;&#x16C1;&#x16A6; &#x16C5;&#x16C1;&#x16B4;&#x16C1;&#x16D2;&#x16C1;&#x16C6;&#x16B1;&#x16B4;&#x16C6;&#x16B1; &#x16C1;&#x16B1; &#x16A6;&#x16B1;&#x16C1;&#x16D8;&#x16B1; &#x16C1;&#x16C6;&#x16D0;&#x16D0;&#x16C1;&#x16D8;&#x16A0;&#x16C1;&#x16B1;&#x16C5; &#x16D8;&#x16C6;&#x16B1;&#x16C1;&#x16A2; &#x16D8;&#x16BD;&#x16CC;&#x16CC;&#x16AE; &#x16C1; &#x16B4;&#x16AE;&#x16CC;&#x16D0;&#x16A2;</seg> 
 <seg xml:lang="la" xml:id="la-0431">Occurrunt quidem in inscriptione hac vitia nonnulla, ruditati sculptoris tribuenda, sed talia, qv&#xE6; versatioribus in hac literatur&#xE2; nec nova sunt, nec ignota; ideo eadem hic lati&#xF9;s deducere nil attinet, integr&#xE8; sic legenda.</seg>
 <seg xml:lang="no" corresp="#la-0431">Det finnes noen feil i denne innskriften som skyldes mangel på ferdighet i utarbeidelsen, men slike som er kjente for dem som er bevandret i denne typen skrift og ikke trenger å forklares videre her.</seg>
 <seg xml:lang="no" corresp="#la-0431">Innskriften leses riktig slik:</seg>
@@ -1701,7 +1701,7 @@ qvodam tempore Annex&#xE6; Ecclesi&#xE6; &#xC6;wangriensi (ubi DN. ERLINGERUS <h
 <seg xml:lang="no" corresp="#la-0467">Uthugget i denne er en gravskrift utelukkende i runer som p&#xE5; noen steder er visket ut og fort&#xE6;rt, nemlig denne:</seg>
 	</p>
 		<pb n="53" facs="no-nb_digibok_2015121628005_0059.jpg"/>
-<p>	(Runetekst) 
+<p><seg xml:lang="la" xml:id="la-0467_a">† &#x16C6;&#x16B1;&#x16D0;&#x16C1;&#x16A6; &#x16EE;&#x16C1;&#x16B1;&#x16C1;&#x16B4;&#x16CC; &#x16BE;&#x16B1;&#x16A6;&#x16C6; &#x16C1;&#x16B1; &#x16A0;&#x16C1;&#x16D8; &#x16BF;&#x16AE;&#x16B1;&#x16C1;&#x16C1; &#x16BF;&#x16C1;&#x16CC; ....... &#x16B1;&#x16C5;&#x16D0;</seg> 
 	<seg xml:lang="la" xml:id="la-0468">Quas su&#xE6; integritari ita restituo &amp; lego:</seg>
 <seg xml:lang="no" corresp="#la-0468">Hvilke jeg retter opp og leser:</seg>
 <seg xml:lang="la" xml:id="la-0469">&#x2020;&#xA0;Artid Eiriks Erda er fim notr fra Mariu Messo um varet.</seg> 
@@ -1876,8 +1876,8 @@ qvodam tempore Annex&#xE6; Ecclesi&#xE6; &#xC6;wangriensi (ubi DN. ERLINGERUS <h
 <seg xml:lang="no" corresp="#la-0524">Jeg skal meddele det som for meg virker sannsynlig og overlate resten til dem som er kyndigere i studiet av fedrelandets historie.</seg>
 <seg xml:lang="la" xml:id="la-0525">Prior ergo&#xA0;&#x388;&#x3C0;&#x3B9;&#x3B3;&#x3F1;&#x3B1;&#x3C6;&#x3AE; talis est.</seg>
 <seg xml:lang="no" corresp="#la-0525">Den f&#xF8;rste innskriften er slik:</seg>
-&#x2020; .. (Runer)&#xA0; &#xA0; 
-			<seg xml:lang="la" xml:id="la-0526">Quod hunc in modum suppleo, distingvo &amp; lego:</seg>
+<seg xml:lang="la" xml:id="la-0525_a">† .. &#x16C2;&#x16A6;&#x16EF;&#x16A2;&#x16C1;&#x16C1;&#x16C1;&#x16C1; &#x16D8;()&#x16B4;() &#x16C5;&#x16C1;&#x16C6;</seg>
+ 			<seg xml:lang="la" xml:id="la-0526">Quod hunc in modum suppleo, distingvo &amp; lego:</seg>
 <seg xml:lang="no" corresp="#la-0526">Dette utfyller, skjelner og leser jeg slik:</seg> 
 			</p>
 				<note place="margin" type="authorial" target="#la-0522">		
@@ -1898,7 +1898,7 @@ qvodam tempore Annex&#xE6; Ecclesi&#xE6; &#xC6;wangriensi (ubi DN. ERLINGERUS <h
 <seg xml:lang="no" corresp="#la-0529">Kanskje var dette odelsg&#xE5;rden til denne Markus.</seg>
 <seg xml:lang="la" xml:id="la-0530">Posterior.</seg>
 <seg xml:lang="no" corresp="#la-0530">Den andre innskriften:</seg>
-<seg xml:lang="la" xml:id="la-0531"></seg> 
+<seg xml:lang="la" xml:id="la-0531_a">† .. &#x16B1;.&#x16C1;&#x16C6;&#x16BC;&#x16D5;.&#x16C1;&#x16AE;&#x16B1;&#x16A2;&#x16C1;&#x16C1;&#x16C1;&#x16B1;&#x16C1;&#x16C1;&#x16D8;&#x16A2;&#x16C1;&#x16C1;&#x16C1;&#x16C1;&#x16B4;&#x16B3;&#x16AE;&#x16C1;&#x16C6;&#x16D8;&#x16C5;()&#x16D0;&#x16C1;&#x16B1;&#x16D2;&#x16B1;&#x16A6;&#x16D0;&#x16ED;.</seg> 
       	<seg xml:lang="la" xml:id="la-0532">H&#xE6;c inscriptio de jorundero seu Georgio quodam tractare videtur, sed vera &amp; sincera difficilis est interpretatio.</seg>
 <seg xml:lang="no" corresp="#la-0532">Denne innskriften ser ut til &#xE5; handle om en J&#xF8;rund eller J&#xF8;rgen, men den er i sannhet vanskelig &#xE5; fortolke.</seg>
 <seg xml:lang="la" xml:id="la-0533">Inter hujus Pastores ante Reformationem reperiuntur</seg> 
@@ -2137,13 +2137,16 @@ og han kom ikke hit uten store vanskeligheter.</seg>
 				</note>
 		<pb n="65" facs="no-nb_digibok_2015121628005_0071.jpg"/>
 				<p>
-<seg xml:lang="la" xml:id="la-0601">XXI.
-Artid er Ingibarhar Kar&#xE6; totr dru notm eptir Krosmesit um varit : Hver a Mader Runer disser da sage Patr noster fyrir s&#xE6;l hednar, hialp gud deim er sua gerer.</seg>
+<seg xml:lang="la" xml:id="la-0601">XXI.</seg>
+<seg xml:lang="la" xml:id="la-0601_a">&#x16C6;&#x16B1;&#x16D0;&#x16C1;&#x16A6; &#x16BD;&#x16B1; &#x16C1;&#x16B4;&#x16C1;&#x16D2;&#x16C6;&#x16B1;&#x16E1;&#x16C6;&#x16B1; &#x16B4;&#x16C6;&#x16B1;&#x16C6; &#x16D0;&#x16AE;&#x16D0;&#x16B1; &#x16A6;&#x16B1;&#x16A2; &#x16B3;&#x16AE;&#x16D8; &#x16C5;&#x16D2;&#x16D0;&#x16C5;&#x16B1; &#x16B4;&#x16B1;&#x16AE;&#x16CC;&#x16D8;&#x16BD;&#x16CB;&#x16D0; &#x16A2;&#x16D8; &#x16A2;&#x16C6;&#x16B1;&#x16C1;&#x16D0; &#x16E1;&#x16A2;&#x16C5;&#x16B1; &#x16C6; &#x16D8;&#x16C6;&#x16A6;&#x16C5;&#x16B1; &#x16B1;&#x16A2;&#x16B3;&#x16C5;&#x16B1; &#x16A6;&#x16C1;&#x16CB; &#x16CC;&#x16BD;&#x16B1; &#x16A6;&#x16C6; &#x16CC;&#x16C6;&#x16B4;&#x16C5; &#x16D2;&#x16C6;&#x16D0;&#x16B1; &#x16B3;&#x16AE;&#x16CB;&#x16D0;&#x16C5;&#x16B1; &#x16A0;&#x16E6;&#x16B1;&#x16C1;&#x16B1; &#x16CC;&#x16AF;&#x16B4; &#x16BC;&#x16E9;&#x16A6;&#x16BF;&#x16C6;&#x16B1; &#x16BC;&#x16C1;&#x16C6;&#x16DA;&#x16D2; &#x16B4;&#x16A2;&#x16A6; &#x16A6;&#x16C5;&#x16C1;&#x16D8; &#x16C5;&#x16B1; &#x16CC;&#x16A2;&#x16C6; &#x16B4;&#x16C5;&#x16B1;&#x16C5;&#x16B1;</seg>
+<seg xml:lang="la" xml:id="la-0601_b">Artid er Ingibarhar Kar&#xE6; totr dru notm eptir Krosmesit um varit : Hver a Mader Runer disser da sage Patr noster fyrir s&#xE6;l hednar, hialp gud deim er sua gerer.</seg>
 <seg xml:lang="la" xml:id="la-0602">h. e.</seg>
 <seg xml:lang="no" corresp="#la-0602">Dette betyr:</seg>		
 <seg xml:lang="la" xml:id="la-0603">Memoria annua Ingeburgis Kar&#xE6; fili&#xE6; recolitur nocte terti&#xE2; post festum S. Crucis vernale: Quicunque has aspicit Runas, oret Pater noster pro anim&#xE2; illius (np. Ingeburgis:) Deus eorum misereatur qvi ita faciunt.</seg>
 <seg xml:lang="no" corresp="#la-0603">Ingebord Kaaresdatters &#xE5;rlige minnedag er tredje natt etter korsmesse om v&#xE5;ren: enhver som ser disse runene m&#xE5; be Faderv&#xE5;r for henns sjel; Gud miskunne seg over dem som gj&#xF8;r dette.</seg>	
-<seg xml:lang="la" xml:id="la-0605">XXV. Her hvilir Elinn Reis (Eiriks) totr, artid hennar er Klemed meso aftan.</seg>
+<seg xml:lang="la" xml:id="la-0605">XXV.</seg>
+<seg xml:lang="la" xml:id="la-0605_a">&#x16E1;&#x16C5;&#x16B1; &#x16E1;&#x16A2;&#x16C1;&#x16DA;&#x16C1;&#x16B1; &#x16C5;&#x16DA;&#x16C1;&#x16BF;&#x16BF; &#x16B1;&#x16C5;&#x16C1;&#x16CB; (&#x16C5;&#x16C1;&#x16B1;&#x16C1;&#x16B4;&#x16CC;) &#x16D0;&#x16AE;&#x16D0;&#x16B1; &#x16C6;&#x16B1;&#x16D0;&#x16C1;&#x16A6; &#x16E1;&#x16C5;&#x16BF;&#x16BF;&#x16C6;&#x16B1; &#x16C5;&#x16B1; &#x16B4;&#x16DA;&#x16C5;&#x16D8;&#x16BE;&#x16A6; &#x16D8;&#x16BD;&#x16CC;&#x16AE; &#x16C6;&#x16A0;&#x16D0;&#x16C6;&#x16BF;</seg>
+<seg xml:lang="la" xml:id="la-0605_b">Her hvilir Elinn Reis (Eiriks) totr, artid hennar er Klemed meso aftan.</seg>
 <seg xml:lang="la" xml:id="la-0606">i.e.</seg>
 <seg xml:lang="no" corresp="#la-0606">Det betyr:</seg>
 <seg xml:lang="la" xml:id="la-0607">Hic qviescit Helena Reisi (Erici) filia, cujus memoria recolitur vesper&#xE2; festi Clementis.</seg>
