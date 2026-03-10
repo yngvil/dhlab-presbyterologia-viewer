@@ -295,6 +295,12 @@ main {
   font-size: 0.97em;
 }
 
+.runic-span {
+  font-family: "Noto Sans Runic", "Segoe UI Symbol", "Arial Unicode MS",
+    "Noto Sans", var(--serif);
+  letter-spacing: 0.02em;
+}
+
 .norwegian {
   font-size: 1rem;
   line-height: 1.7;

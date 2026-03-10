@@ -22,6 +22,10 @@ function normalizeText(text) {
   return text.replace(/\s+/g, " ").trim();
 }
 
+function hasRunic(text) {
+  return /[\u16A0-\u16FF]/.test(text || "");
+}
+
 function escapeHtml(text) {
   return text
     .replace(/&/g, "&amp;")
@@ -634,6 +638,9 @@ function buildParagraphFromItems(items, inlineAnchors = null) {
     const span = document.createElement("span");
     if (item.isHead) {
       span.className = `head-span head-l${item.headLevel || 1}`;
+    }
+    if (hasRunic(item.html)) {
+      span.classList.add("runic-span");
     }
     if (inlineAnchors && item.segNode) {
       appendInlineSegContent(item.segNode, span, inlineAnchors);
